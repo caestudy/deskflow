@@ -1,17 +1,5 @@
 <p align="center">
-  <img src="https://caestudy.com/favicon-black.png" width="80" alt="cæstudy" />
-</p>
-
-<h1 align="center">cæstudy DeskFlow</h1>
-
-<p align="center">
-  <em>f/1.2. for your ultrawide.</em>
-</p>
-
-<p align="center">
-  Bring your apps into focus, just ⌘Tab.<br/>
-  Your eyes stay on the work and your mind in the zone.<br/>
-  Built for ultrawide and multi-monitor setups.
+  <img src="hero.png" alt="cæstudy DeskFlow — f/1.2. for your ultrawide." />
 </p>
 
 <p align="center">

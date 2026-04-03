@@ -32,9 +32,11 @@ Runs on ⌘Tab. Additional hotkeys live in a dedicated ⌃⌘ namespace, chosen 
 
 ---
 
-## Beta
+## Support & Feedback
 
-DeskFlow is in open beta. If you run into issues or have feedback, open an issue or reach out at [info@caestudy.com](mailto:info@caestudy.com?subject=DeskFlow%20Feedback).
+Join the DeskFlow Discord: [discord.gg/AEjaHm9m](https://discord.gg/AEjaHm9m)
+
+Report bugs or share ideas directly with the developer.
 
 ---
 

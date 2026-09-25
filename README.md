@@ -28,7 +28,7 @@ Dims the entire screen — menu bar, dock, everything — leaving only the one a
 Zones are defined per display. Layouts restore on reconnect. Apps can be exempted from zone management when you need them to roam free.
 
 **Low Overhead** — Zero interference. Nothing to unlearn.
-Runs on ⌘Tab. Additional hotkeys live in a dedicated ⌃⌘ namespace, chosen not to conflict with your terminal, Xcode, VS Code, Raycast, and Rectangle.
+Runs on ⌘Tab. Additional hotkeys live in a dedicated Ctrl+⌘ namespace, chosen not to conflict with your terminal, Xcode, VS Code, Raycast, and Rectangle.
 
 ---
 
